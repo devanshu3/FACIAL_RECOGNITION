@@ -47,8 +47,8 @@ If person will detected succesfully then it will save attendance in one CSV file
 
 
 #images_captured_for_database
- file:///home/aman/Pictures/minor/Screenshot%20(100).png
+![Screenshot (100)](https://user-images.githubusercontent.com/91407206/216690729-aebed477-c9c5-40e1-931b-0bed4e996a86.png)
 
 
 #attendance_marked
- file:///home/aman/Pictures/minor/Screenshot%20(101).png
+![Screenshot (101)](https://user-images.githubusercontent.com/91407206/216690751-ab661b7d-4012-4a72-a233-8b809fa90ceb.png)
