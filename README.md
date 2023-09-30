@@ -1,37 +1,36 @@
 ## Face_recognition_based_attendance_system
-A python GUI integrated attendance system using face recognition to take attendance.
 
-In this python project, I have made an attendance system which takes attendance by using face recognition technique. I have also intergrated it with GUI for ease of access, tkinter is the supported format for the same.
+  A python GUI integrated attendance system using face recognition to take attendance.
+  In this python project, I have made an attendance system which takes attendance by using face recognition technique. I have also intergrated it with GUI for ease of access, tkinter is the supported format for the same.
 
 ## TECHNOLOGY USED:
-1) Python
-2) OpenCV, (cv2.face.LBPHFaceRecognizer_create())
-3) CSV
+  1) Python
+  2) OpenCV, (cv2.face.LBPHFaceRecognizer_create())
+  3) CSV
 
 ## FEATURES:
-1) Easy to use with interactive GUI support.
-2) Password protection for new person registration.
-3) Creates/Updates CSV file for deatils of students on registration.
-4) Creates a new CSV file everyday for attendance and marks attendance with proper date and time.
-5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
+  1) Easy to use with interactive GUI support.
+  2) Password protection for new person registration.
+  3) Creates/Updates CSV file for deatils of students on registration.
+  4) Creates a new CSV file everyday for attendance and marks attendance with proper date and time.
+  5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
 ## Working 
-If you don't have required laibreries then firat you need to install that.
 
-OpenCV
->pip install OpenCV-python
-
-Numpy
->pip install numpy
-
-Pandas
->pip install pandas
-
-Os 
->pip install os
-
-Tkinter 
->pip install tkinter
+  OpenCV
+  >pip install OpenCV-python
+  
+  Numpy
+  >pip install numpy
+  
+  Pandas
+  >pip install pandas
+  
+  Os 
+  >pip install os
+  
+  Tkinter 
+  >pip install tkinter
 
 Now to run this project you need 'haarcascade_frontalface_default.xml' along with this python file which contains the haar cascade features of a face.
 
@@ -52,3 +51,7 @@ If person get detected succesfully then it will save attendance in CSV format an
 
 ## attendance_marked
 ![Screenshot (101)](https://user-images.githubusercontent.com/91407206/216690751-ab661b7d-4012-4a72-a233-8b809fa90ceb.png)
+
+
+## Author
+devanshu3
